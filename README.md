@@ -78,7 +78,7 @@ cd CAVnet
 
  #### Figure 3. Predicted results on healthy eyes and eyes with branch retinal vein occlusion.
 
-![img](./Figures/results_BRVO.jpg)
+![img](./Figures/BRVO.jpg)
 
  #### Figure 3. Predicted results on scans with large-field-of view.
 
