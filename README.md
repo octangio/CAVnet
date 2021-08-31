@@ -39,24 +39,28 @@ cd CAVnet
     |
     |-- train_image
     |   |
+    |   |_list.txt
     |   |- image_0001.png
     |   |- image_0002.png
     |   |- ...
     |
     |-- train_label
     |   |
+    |   |_list.txt
     |   |- label_0001.png
     |   |- label_0002.png
     |   |- ...
     |
     |-- valid_image
     |   |
+    |   |_list.txt
     |   |- image_0001.png
     |   |- image_0002.png
     |   |- ...
     |
     `-- valid_label
         |
+        |   |_list.txt
         |- label_0001.png
         |- label_0002.png
         |- ...
