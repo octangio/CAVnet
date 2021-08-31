@@ -61,6 +61,7 @@ cd CAVnet
         |- label_0002.png
         |- ...
   ```
+  Then you need to generate the path list of image and label. 
 
 - Training
   
