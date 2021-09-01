@@ -17,7 +17,6 @@ coverage @ file:///C:/ci/coverage_1614614910274/work
 cryptography @ file:///C:/ci/cryptography_1616769432139/work
 cycler==0.10.0
 Cython @ file:///C:/ci/cython_1626257059178/work
-fire==0.4.0
 flatbuffers @ file:///tmp/build/80754af9/python-flatbuffers_1614345733764/work
 gast @ file:///tmp/build/80754af9/gast_1597433534803/work
 google-auth @ file:///tmp/build/80754af9/google-auth_1626320605116/work
@@ -41,7 +40,6 @@ numexpr @ file:///C:/ci/numexpr_1618856761305/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1626271861146/work
 oauthlib @ file:///tmp/build/80754af9/oauthlib_1623060228408/work
 olefile==0.46
-onnx==1.9.0
 onnxconverter-common @ git+https://github.com/microsoft/onnxconverter-common@46a72b90d25bb92231c82c48a4c7828bbca167fe
 opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
 pandas @ file:///C:/ci/pandas_1626784212000/work
