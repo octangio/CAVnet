@@ -1,0 +1,6 @@
+./dataset\valid_image\0001.png
+./dataset\valid_image\0002.png
+./dataset\valid_image\0003.png
+./dataset\valid_image\0004.png
+./dataset\valid_image\0005.png
+./dataset\valid_image\0006.png

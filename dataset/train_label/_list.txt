@@ -1,0 +1,6 @@
+./dataset\train_label\0001.png
+./dataset\train_label\0002.png
+./dataset\train_label\0003.png
+./dataset\train_label\0004.png
+./dataset\train_label\0005.png
+./dataset\train_label\0006.png

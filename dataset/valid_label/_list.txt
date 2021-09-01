@@ -1,0 +1,6 @@
+./dataset\valid_label\0001.png
+./dataset\valid_label\0002.png
+./dataset\valid_label\0003.png
+./dataset\valid_label\0004.png
+./dataset\valid_label\0005.png
+./dataset\valid_label\0006.png
