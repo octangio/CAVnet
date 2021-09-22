@@ -70,7 +70,7 @@ cd CAVnet
 - Training
   
   ```bash
-  python prepare_data.py --train_image=./dataset/train_image/_list.txt --train_label=./dataset/train_label/_list.txt --valid_image=./dataset/valid_image/_list.txt --valid_label=./dataset/valid_label/_list.txt --batch_size=2 --input_height=400 --input_width=400   
+  python my_train.py --train_image=./dataset/train_image/_list.txt --train_label=./dataset/train_label/_list.txt --valid_image=./dataset/valid_image/_list.txt --valid_label=./dataset/valid_label/_list.txt --batch_size=2 --input_height=400 --input_width=400   
   ```
 - Test
 
