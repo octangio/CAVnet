@@ -3,7 +3,7 @@
 
 By [**Min Gao**](https://scholar.google.com/citations?user=T1vzVnYAAAAJ&hl=en), [**Yukun Guo**](https://scholar.google.com/citations?user=BCrQPWUAAAAJ&hl=en&oi=sra), [**Tristan T.Hormel**](https://scholar.google.com/citations?user=jdD1rGwAAAAJ&hl=en), [**Kotaro Tsuboi**](https://www.researchgate.net/profile/Kotaro-Tsuboi-2), [**George Pacheco**](https://www.linkedin.com/in/george-pacheco-bs-coa-32190a154), David Poole, [**Steven T. Bailey**](https://www.researchgate.net/profile/Steven-Bailey-10), [**Christina J. Flaxel**](https://orcid.org/0000-0001-9353-9862), [**David Huang**](https://scholar.google.com/citations?user=SqEvY68AAAAJ&hl=en), [**Thomas S. Hwang**](https://www.researchgate.net/profile/Thomas-Hwang-2), [**Yali Jia**](https://scholar.google.com/citations?user=hfBY5K8AAAAJ&hl=en&oi=sra)
 
-This repo is the official implementation of "An open-source deep learning network for classifying arteries and veins in montaged wide-field OCT angiograms ".
+This repo is the official implementation of "An open-source deep learning network for classifying arteries and veins in montaged wide-field OCT angiograms".
 
 ## Introduction
 
