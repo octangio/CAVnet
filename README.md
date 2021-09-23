@@ -85,6 +85,6 @@ cd CAVnet
 
 ![img](./Figures/BRVO.jpg)
 
- #### Figure 3. Predicted results on scans with large-field-of view.
+ #### Figure 4. Predicted results on scans with large-field-of view.
 
 ![img](./Figures/results_large_field_view.jpg)
