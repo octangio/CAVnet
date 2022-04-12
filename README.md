@@ -1,9 +1,16 @@
 # A deep learning network for classifying arteries and veins in montaged wide-field OCT angiograms   
 
+[ [**Paper**](https://www.sciencedirect.com/science/article/pii/S2666914522000380)]
 
 By [**Min Gao**](https://scholar.google.com/citations?user=T1vzVnYAAAAJ&hl=en), [**Yukun Guo**](https://scholar.google.com/citations?user=BCrQPWUAAAAJ&hl=en&oi=sra), [**Tristan T.Hormel**](https://scholar.google.com/citations?user=jdD1rGwAAAAJ&hl=en), [**Kotaro Tsuboi**](https://www.researchgate.net/profile/Kotaro-Tsuboi-2), [**George Pacheco**](https://www.linkedin.com/in/george-pacheco-bs-coa-32190a154), David Poole, [**Steven T. Bailey**](https://www.researchgate.net/profile/Steven-Bailey-10), [**Christina J. Flaxel**](https://orcid.org/0000-0001-9353-9862), [**David Huang**](https://scholar.google.com/citations?user=SqEvY68AAAAJ&hl=en), [**Thomas S. Hwang**](https://www.researchgate.net/profile/Thomas-Hwang-2), [**Yali Jia**](https://scholar.google.com/citations?user=hfBY5K8AAAAJ&hl=en&oi=sra)
 
-This repo is the official implementation of "A deep learning network for classifying arteries and veins in montaged wide-field OCT angiograms".
+This repo is the official implementation of "[**A deep learning network for classifying arteries and veins in montaged wide-field OCT angiograms**](https://www.ophthalmologyscience.org/article/S2666-9145(22)00038-0/fulltext)".
+
+This software is copyrighted and may only be used for academic research.
+
+Please cite this paper if you use any component of the software.
+
+Gao M, Guo Y, Hormel TT, Tsuboi K, Pacheco G, Poole D, Bailey ST, Flaxel CJ, Huang D, Hwang TS, Jia Y. A deep learning network for classifying arteries and veins in montaged wide-field OCT angiograms. Ophthalmology Science. 2022 Apr 1:100149.
 
 ## Introduction
 
